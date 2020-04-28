@@ -1,0 +1,20 @@
+{
+    "name": "jc-material-demo",
+    "title": "jc-material-demo",
+    "description": "",
+    "repository": {
+        "url": "https://github.com/Net-JetChan/material-demo.git",
+        "private": 1,
+        "auth": {
+            "username": "364950804@qq.com",
+            "password": "jZ2AQN+ejb8l8l5AWuKsLSHqUytvBRsI6X9DtbLqVW3SSAANDu+2fs9HdQOIfjj1yRNddp9CvT4zDkUgFlj28g=="
+        }
+    },
+    "map": {
+        "components": [],
+        "blocks": [],
+        "pages": [],
+        "templates": []
+    },
+    "materialId": 219
+}
